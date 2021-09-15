@@ -42,7 +42,7 @@ def option():
     return parser.parse_args()
 
 if  __name__ == "__main__":
-    print("Querring...")
+    print("Extracting...")
     parser = option()
     os.makedirs(parser.result_dir)
     feature_extract(*vars(parser).values())

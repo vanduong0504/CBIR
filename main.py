@@ -65,6 +65,7 @@ def option():
     return parser.parse_args()
 
 if  __name__ == "__main__":
+    print("Querying...")
     parser = option()
     sim = calc_similarity(*vars(parser).values())
     show_image(parser.pkl_dir, sim)
