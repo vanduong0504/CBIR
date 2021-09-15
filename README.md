@@ -43,6 +43,9 @@ For custom dataset, follow this structure:
 
 `python main.py --pkl_dir "path/to/pkl_dir" --querry "path/to/querry image" --k 10`
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 <h2> :pushpin: Note </h2>
 
 `main.py` will also save an image which ploted by `matplotlib`. You can see **imgs/sample.jpg**
