@@ -1,4 +1,4 @@
-<h1 align="center"> GENERATIVE ADVERSARIAL NETWORKS </h1>
+<h1 align="center"> CONTENT-BASED IMAGE RETRIEVAL </h1>
 
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
