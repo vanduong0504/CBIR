@@ -4,7 +4,7 @@
 
 <h2> :pencil: About the project </h2>
 
-This project aims to create a sample image retrieval system.. Using **VGG16** pretrained model and small Felidae dataset in [kaggle](https://www.kaggle.com/vishweshsalodkar/wild-animals) for demonstrating.
+This project aims to create a simple dontent-based image retrieval system. Using **VGG16** pretrained model and small Felidae dataset in [kaggle](https://www.kaggle.com/vishweshsalodkar/wild-animals) for demonstrating.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
