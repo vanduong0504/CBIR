@@ -52,5 +52,5 @@ For custom dataset, follow this structure:
 `main.py` will also save an image which ploted by `matplotlib`. You can see **imgs/sample.jpg**
 
 <p align="center">
-  <img src="imgs/sample.jpg" width=600>
+  <img src="imgs/sample.jpg" width=800>
 </p>
