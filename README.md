@@ -40,6 +40,7 @@ For custom dataset, follow this structure:
 `python extract.py --dataroot "path/to/dataroot"`
 
 <li> Using main.py to calculate the similarity between querry image and dataroot and select top K : </li>
+</ul>
 
 `python main.py --pkl_dir "path/to/pkl_dir" --querry "path/to/querry image" --k 10`
 
@@ -49,3 +50,7 @@ For custom dataset, follow this structure:
 <h2> :pushpin: Note </h2>
 
 `main.py` will also save an image which ploted by `matplotlib`. You can see **imgs/sample.jpg**
+
+<p align="center">
+  <img src="imgs/sample.jpg" width=600>
+</p>
