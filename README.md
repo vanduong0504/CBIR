@@ -40,9 +40,9 @@ For custom dataset, follow this structure:
 `python extract.py --dataroot "path/to/dataroot"`
 
 <li> Using main.py to calculate the similarity between the query image and database and select top K: </li>
-</ul>
 
 `python main.py --pkl_dir "path/to/pkl_dir" --querry "path/to/querry image" --k 10`
+ </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
